@@ -1,6 +1,6 @@
 # Atom4TEI
 
-A loosely structured collection of potentially useful packages to turn [Atom](https://atom.io/) editor for working with XML/TEI documents. 
+A loosely structured collection of potentially useful packages to turn [Atom](https://atom.io/) editor for working with XML/TEI documents.
 
 ## linter-autocomplete-jing
 
@@ -67,13 +67,13 @@ refactoring of variables
 * An eXist-db package needs to be installed to the database.
 * I noticed that e.g. invalid files/scripts are not stored although the editor interface claims it. But not further investigated yet.
 
-## atom-entity-ac
+## atom-entity-linker
 
-https://github.com/acdh-oeaw/atom-entity-ac
+https://github.com/KONDE-AT/atom-entity-linker
 
 ### functions
 
-Provides autocomplete for entities fetched from an eXist-db endpoint. Basically the same what the [ediarum oXygen plug-in](https://github.com/telota/ediarum/) does.
+Provides autocomplete for entities fetched from an JSON endpoint. Basically the same what the [ediarum oXygen plug-in](https://github.com/telota/ediarum/) does.
 
 ### pros
 
