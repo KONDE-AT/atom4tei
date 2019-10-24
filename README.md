@@ -82,3 +82,16 @@ Provides autocomplete for entities fetched from an JSON endpoint. Basically the 
 ### cons
 
 * own development
+
+# Executive summary
+
+```apm install linter-autocomplete-jing atom-xsltransform existdb```
+
+For `atomic-tei`: 
+
+''' 
+cd ~/somedir
+git clone https://github.com/neelsmith/atomic-tei.git
+cd ./atomic-tei
+apm link
+''' 
